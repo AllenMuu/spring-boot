@@ -14,5 +14,4 @@ public class MsgConsumerService {
 	public void receiveMessage(String msg) {
 		System.err.println("======消费消息======" + msg);
 	}
-
 }

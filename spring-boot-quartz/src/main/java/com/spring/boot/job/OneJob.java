@@ -8,9 +8,8 @@ import org.quartz.JobExecutionException;
 
 public class OneJob implements Job {
 
-	@Override
-	public void execute(JobExecutionContext context) throws JobExecutionException {
-		System.out.println("=====One Job执行时间: " + new Date() + "=====");
-	}
-
+    @Override
+    public void execute(JobExecutionContext context) throws JobExecutionException {
+        System.out.println("=====One Job执行时间: " + new Date() + "=====");
+    }
 }

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/spring-boot.iml" filepath="$PROJECT_DIR$/spring-boot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-activemq/spring-boot-activemq.iml" filepath="$PROJECT_DIR$/spring-boot-activemq/spring-boot-activemq.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-cache-ehcache/spring-boot-cache-ehcache.iml" filepath="$PROJECT_DIR$/spring-boot-cache-ehcache/spring-boot-cache-ehcache.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-cache-redis/spring-boot-cache-redis.iml" filepath="$PROJECT_DIR$/spring-boot-cache-redis/spring-boot-cache-redis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-configuration/spring-boot-configuration.iml" filepath="$PROJECT_DIR$/spring-boot-configuration/spring-boot-configuration.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-dubbo/spring-boot-dubbo.iml" filepath="$PROJECT_DIR$/spring-boot-dubbo/spring-boot-dubbo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-dubbo/spring-boot-dubbo-api/spring-boot-dubbo-api.iml" filepath="$PROJECT_DIR$/spring-boot-dubbo/spring-boot-dubbo-api/spring-boot-dubbo-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-dubbo/spring-boot-dubbo-consumer/spring-boot-dubbo-consumer.iml" filepath="$PROJECT_DIR$/spring-boot-dubbo/spring-boot-dubbo-consumer/spring-boot-dubbo-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-dubbo/spring-boot-dubbo-provider/spring-boot-dubbo-provider.iml" filepath="$PROJECT_DIR$/spring-boot-dubbo/spring-boot-dubbo-provider/spring-boot-dubbo-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-jsp/spring-boot-jsp.iml" filepath="$PROJECT_DIR$/spring-boot-jsp/spring-boot-jsp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-log4j2/spring-boot-log4j2.iml" filepath="$PROJECT_DIR$/spring-boot-log4j2/spring-boot-log4j2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-mybatis/spring-boot-mybatis.iml" filepath="$PROJECT_DIR$/spring-boot-mybatis/spring-boot-mybatis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-quartz/spring-boot-quartz.iml" filepath="$PROJECT_DIR$/spring-boot-quartz/spring-boot-quartz.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-quickstart/spring-boot-quickstart.iml" filepath="$PROJECT_DIR$/spring-boot-quickstart/spring-boot-quickstart.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-shiro/spring-boot-shiro.iml" filepath="$PROJECT_DIR$/spring-boot-shiro/spring-boot-shiro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-swagger/spring-boot-swagger.iml" filepath="$PROJECT_DIR$/spring-boot-swagger/spring-boot-swagger.iml" />
+    </modules>
+  </component>
+</project>

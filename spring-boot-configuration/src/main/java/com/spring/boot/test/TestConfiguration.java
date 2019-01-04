@@ -28,5 +28,4 @@ public class TestConfiguration {
 		System.out.println(randomProperty.getUuid());
 		
 	}
-	
 }

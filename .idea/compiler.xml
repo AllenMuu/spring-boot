@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="spring-boot-activemq" />
+        <module name="spring-boot-cache-ehcache" />
+        <module name="spring-boot-cache-redis" />
+        <module name="spring-boot-configuration" />
+        <module name="spring-boot-dubbo-api" />
+        <module name="spring-boot-dubbo-consumer" />
+        <module name="spring-boot-dubbo-provider" />
+        <module name="spring-boot-jsp" />
+        <module name="spring-boot-log4j2" />
+        <module name="spring-boot-mybatis" />
+        <module name="spring-boot-quartz" />
+        <module name="spring-boot-quickstart" />
+        <module name="spring-boot-shiro" />
+        <module name="spring-boot-swagger" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="spring-boot" target="1.8" />
+      <module name="spring-boot-activemq" target="1.8" />
+      <module name="spring-boot-cache-ehcache" target="1.8" />
+      <module name="spring-boot-cache-redis" target="1.8" />
+      <module name="spring-boot-configuration" target="1.8" />
+      <module name="spring-boot-dubbo" target="1.8" />
+      <module name="spring-boot-dubbo-api" target="1.8" />
+      <module name="spring-boot-dubbo-consumer" target="1.8" />
+      <module name="spring-boot-dubbo-provider" target="1.8" />
+      <module name="spring-boot-jsp" target="1.8" />
+      <module name="spring-boot-log4j2" target="1.8" />
+      <module name="spring-boot-mybatis" target="1.8" />
+      <module name="spring-boot-quartz" target="1.8" />
+      <module name="spring-boot-quickstart" target="1.8" />
+      <module name="spring-boot-shiro" target="1.8" />
+      <module name="spring-boot-swagger" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
